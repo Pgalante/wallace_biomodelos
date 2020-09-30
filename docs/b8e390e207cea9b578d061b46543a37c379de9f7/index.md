@@ -3,7 +3,28 @@ October 13 - 15, 2020
 
 Location: vitural. Three 2.5-hour morning sessions and afternoon asynchronous activities to be completed individually or in a small team
 
-### Zoom link
+### [Zoom link]()
+
+## Forms
+We would like to get to know everybody attending our workshop, but unfortunately we are not able to meet in person this year. Instead, we ask that every participant creates a single powerpoint slide of themselves. We look forward to getting to know everybody digitally.
+
+[Introduction powerpoint](https://docs.google.com/presentation/d/15aCiTBhC6o2QmcWOLqqdJ-07XU2XFWCqBE8y0zOce2I/edit?usp=sharing)
+
+
+Please use this form to tell us your preference for your software testing subgroup assignments. We will do our best to assign subgroups following participant preferences, but will adjust to ensure even numbers of participants across groups.
+
+[Subgroup signups](https://docs.google.com/forms/d/e/1FAIpQLSdoSBi0lkfO_FJbREltKn7iF_NO2OTVuU6c5Pm_iRHqpH5yeA/viewform?usp=sf_link)
+
+
+Please use this form to report any bugs found and provide detailed software testing feedback during the Consultation Workshop
+
+[Workshop III bug reporting](https://docs.google.com/forms/d/e/1FAIpQLSck3a800e94aK_iVPPQck8ZQY0sGoSVAxCsJtGvQCKD1YTzqg/viewform?usp=sf_link)
+
+
+Thank you very much for attending our workshop. Please take a few moments to give us feedback regarding the workshop, the software, and new features.
+
+[Workshop evaluation form](https://forms.gle/oob2Ht1JF8USEsWZ8)
+
 
 ## Slack
 Slack instructions:  Join the workshop Slack channel to communicate seamlessly with the workshop organizers and participants! Check your email for an invitation to join our workshop slack group!  The email will come from "feedback@slack.com" with the subject "pgalante has invited you to work with them in Slack".
@@ -14,7 +35,7 @@ You should also get an email confirming that you created your account.
 
 
 ## Instructions for subgroup notetakers
-If you are the assigned notetaker for your group, please take notes using whatever software you prefer (word, textfile, etc.), then save the document, and attach the file to the Slack channel #breakoutgroups by clicking the paperclip icon, navigate to the file, and click send. Although you can use the software of your choice, we suggest using the zoom "whiteboard" feature to take notes collaboratively with others in your group - see this video for instructions on how to use the whiteboard function and then save the whiteboard image to your computer: https://blogs.otago.ac.nz/zoom/breakout-sessions/how-to-use-a-whiteboard-in-a-breakout-room/
+If you are the assigned notetaker for your group, please take notes using whatever software you prefer (word, textfile, etc.), then save the document, and attach the file to the Slack channel #breakoutgroups by clicking the paperclip icon, navigate to the file, and click send. Although you can use the software of your choice, we suggest using the zoom "whiteboard" feature to take notes collaboratively with others in your group - see [this video](https://blogs.otago.ac.nz/zoom/breakout-sessions/how-to-use-a-whiteboard-in-a-breakout-room/) for instructions on how to use the whiteboard function and then save the whiteboard image to your computer.
 
 
 
@@ -24,6 +45,7 @@ If you are the assigned notetaker for your group, please take notes using whatev
 [BioModelos video 1 (get data)](https://forms.gle/oob2Ht1JF8USEsWZ8)
 
 **under construction**
+
 [BioModelos introduction and workflow]()
 
 [BioModelos video 2 (post data)]()
@@ -40,15 +62,6 @@ R Demonstrations
 
 [habitat fragmentation indices]()
 
-
-
-## Evaluations
-
-[Workshop evaluation form](https://forms.gle/oob2Ht1JF8USEsWZ8)
-
-## Contact
-
-For emergencies or questions, email Peter Galante: pgalante@amnh.org or Mary Blair: mblair1@amnh.org
 
 
 ## Calendar
@@ -77,5 +90,9 @@ For emergencies or questions, email Peter Galante: pgalante@amnh.org or Mary Bla
 | | 11:30 - 11:45AM | Workshop summary and discussion & completion of evaluations | 
   
 
+
+## Contact
+
+For emergencies or questions, email Peter Galante: pgalante@amnh.org or Mary Blair: mblair1@amnh.org
 
 
