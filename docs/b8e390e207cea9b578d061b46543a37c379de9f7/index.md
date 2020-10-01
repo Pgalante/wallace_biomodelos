@@ -12,28 +12,23 @@ Please find the full workshop agenda below.
 
 
 ## Forms
-We would like to get to know everybody attending our workshop, but unfortunately we are not able to meet in person this year. Instead, we ask that every participant creates a single slide for the shared Google Slides document linked below, to introduce yourself to other participants. We look forward to getting to know everybody digitally.
-
+We would like to get to know everybody attending our workshop, but unfortunately we are not able to meet in person this year. Instead, we ask that every participant creates a single slide for the shared Google Slides document linked below, to introduce yourself to other participants. We look forward to getting to know everybody digitally.<br>
 [Introduction powerpoint](https://docs.google.com/presentation/d/15aCiTBhC6o2QmcWOLqqdJ-07XU2XFWCqBE8y0zOce2I/edit?usp=sharing)
 
 
-Please use this form to tell us your preference for your software testing subgroup assignments. We will do our best to assign subgroups following participant preferences, but will adjust to ensure even numbers of participants across groups.
-
+Please use this form to tell us your preference for your software testing subgroup assignments. We will do our best to assign subgroups following participant preferences, but will adjust to ensure even numbers of participants across groups.<br>
 [Subgroup signups](https://docs.google.com/forms/d/e/1FAIpQLSdoSBi0lkfO_FJbREltKn7iF_NO2OTVuU6c5Pm_iRHqpH5yeA/viewform?usp=sf_link)
 
 
-Please use this form to report any bugs found and provide detailed software testing feedback during the Consultation Workshop
-
+Please use this form to report any bugs found and provide detailed software testing feedback during the Consultation Workshop<br>
 [Workshop III bug reporting](https://docs.google.com/forms/d/e/1FAIpQLSck3a800e94aK_iVPPQck8ZQY0sGoSVAxCsJtGvQCKD1YTzqg/viewform?usp=sf_link)
 
 
-Thank you very much for attending our workshop. Please take a few moments to give us feedback regarding the workshop, the software, and new features.
-
+Thank you very much for attending our workshop. Please take a few moments to give us feedback regarding the workshop, the software, and new features.<br>
 [Workshop evaluation form](https://forms.gle/oob2Ht1JF8USEsWZ8)
 
 
-If your subgroup tested *changeRangeR*, please use the form below to provide feedback
-
+If your subgroup tested the *changeRangeR* full R package (*advanced R users subgroup*), please **only** use the form below to provide feedback<br>
 [changeRangeR feedback](https://docs.google.com/forms/d/e/1FAIpQLSe6jxLTKVC30FRjFxxEXTY5o6zBrh-YQhq2H9hzpb-9FVQgtg/viewform?usp=sf_link)
 
 
@@ -50,7 +45,7 @@ If you are the assigned notetaker for your group, please take notes using whatev
 
 ## Resources
 ### Vignettes
-changeRangeR:
+**changeRangeR**:
 
 [Single species](https://drive.google.com/file/d/1-NbDIjI8b7sCjAvUcOTNBy4xijJi7BsC/view?usp=sharing)
 
@@ -59,9 +54,9 @@ changeRangeR:
 [Diversity metrics using sparse matrices](https://drive.google.com/file/d/18DNLBYxX9QCHOWldeJfWUq0i614aVI7Z/view?usp=sharing)
 
 
-maskRangeR:
+**maskRangeR**:
 
-[vignettes](https://cmerow.github.io/maskRangeR/maskRangeR_Tutorial.html)
+[maskRangeR vignette](https://cmerow.github.io/maskRangeR/maskRangeR_Tutorial.html)
 
 
 ### Demonstration videos
@@ -78,7 +73,7 @@ maskRangeR:
 
 [maskRangeR and changeRangeR in Wallace]()
 
-R Demonstrations
+**R Demonstrations**
 
 [sparse matrices in changeRangeR]()
 
@@ -97,8 +92,8 @@ R Demonstrations
 | October 13, 2020 | 9:00 - 9:20 AM | Welcome <br> Introduction to the Workshop Day 1 |
 | | 9:20 - 9:50AM | Introduction to ENM in *Wallace* and the new *Wallace v2.0* <br> *Brief questions* |
 | | 9:50 - 10:30AM | Introduction to *BioModelos* workflow and the *Wallace-BioModelos* integration vision <br> *Brief questions* |
-| | 10:30 - 11:00AM | Further Questions & Discussion. <br><br> [10 minute break] |
-| | 11:10 - 11:30AM | Discuss plan for afternoon software testing activities in small groups |
+| | 10:30 - 10:50AM | Further Questions & Discussion. <br><br> [10 minute break] |
+| | 11:00 - 11:30AM | Discuss plan for afternoon software testing activities in small groups |
 | | 11:30AM - 1:00PM | Break | 
 | | 1:00 - 3:00PM | Groups (or individuals) spend 1-2 hours as needed for software testing activities. *Wallace* team members are available to assist on Zoom.
 | October 14, 2020 | 9:00 - 9:10AM | Welcome <br> Introduction to Workshop Day 2 | 
