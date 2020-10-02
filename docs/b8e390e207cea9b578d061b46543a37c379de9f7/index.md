@@ -7,8 +7,7 @@ Please find the full workshop agenda below.
 
 ### [Zoom link]()
 
-### [Installation instructions](installation_instructions.md)
-
+### [Wallace installation instructions](installation_instructions.md)
 
 
 ### Forms
@@ -92,6 +91,8 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 [sensitivity analysis in maskRangeR]()
 
 [habitat fragmentation indices]()
+
+[**10 arc-minute worldclim download**](worldclim.md)
 
 
 
