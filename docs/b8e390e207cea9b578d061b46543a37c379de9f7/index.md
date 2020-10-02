@@ -92,7 +92,9 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 
 [habitat fragmentation indices]()
 
-[**10 arc-minute worldclim download**](worldclim.md)
+**worldclim download**
+*If necessary*
+[**10 arc-minute worldclim**](worldclim.md)
 
 
 
