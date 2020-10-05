@@ -1,4 +1,4 @@
-# Instructions for Installation of dependencies for our Wallace-BioModelos 3 Workshop Pre-workshop Bug Testing Meeting!
+# Instructions for Installation of dependencies for our Wallace-BioModelos 3 Workshop!
 Thank you for joining!
 
 **Beginner R users**: Please update to the latest version of R (v4) and update all packages (in R Studio go to tools - check for package updates) before starting with the installation steps below.
@@ -19,13 +19,10 @@ install_github("https://github.com/bobmuscarella/ENMeval/tree/dev", dependencies
 install_github("https://github.com/hannahlowens/occCite", dependencies = TRUE, force = TRUE)
 #install maskRangeR
 devtools::install_github("cmerow/maskRangeR/maskRangeR")
-# now, we must install changeranger, for which you need to download a zipfile
-# here:https://drive.google.com/file/d/1IW51U_gquWcg5H9AqVgcN8pqtgck7R2n/view?usp=sharing
-# changeranger is still in a private github repo, but for the workshop we will make it public so that it can also be installed via >devtools like the other packages
-# after you download it use the next line to install changeranger from your local computer directory where you saved the
-# zipfile, e.g. '/Users/mblair/Desktop/WorkedExample/changeRangeR.zip'
-# NOTE: Windows users will need to ensure the "/" are correct. NOT "\".
-install_local("your/computer/directory/to/changeRangeR.zip")
+# install changeRangeR
+devtools::install_github("cmerow/changeRangeR")
+#if this doesn't work - especially if you are on windows - try this:
+devtools::install_github("cmerow/changeRangeR", build = FALSE, force = T)
 #check that both of these installations worked
 library(maskRangeR)
 library(changeRangeR)

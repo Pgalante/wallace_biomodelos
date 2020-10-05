@@ -17,17 +17,17 @@ run_wallace(biomodelos=TRUE)
 DO NOT SHARE THIS KEY WITH ANYONE OUTSIDE THE WORKSHOP<br>
 5. The species' occurrences should appear on the map. Click on "Table" to view detailed information on each point.<br>
 6. Continue through the rest of the modules to build a species distribution model for the species. <br>
-At some of the steps, remember to download your data (*see below*). Follow the Component and Module Guidance in each section for more information - but please skip the "Env Space"", "User SDM", "Mask", "ChangeRR", and "Alpha Div" Components.<br>
+Follow the Component and Module Guidance in each section for more information - but please skip the "Env Space"", "User SDM", "Mask", "ChangeRR", and "Alpha Div" Components.<br>
 To save time, we suggest the following choices:
 
     - under "Env Data", choose worldclim 10 arc-minute data (if this step is not working then use the [worldclim download](Data.md) link on the workshop website and upload these layers under "User-specified"  
-    - under "Proc Occs", use spatial thinning by 10km, after thinning - remember to go to "download" and download the csv file of your edited occurrence data. 
+    - under "Proc Occs", use spatial thinning by 10km.
     - under "Proc Env", use a bounding box with a 0.5 degree buffer and sample between 1000-10,000 background points (highest available for your area)
     - skip "Env Space"
     - under "Part Occs", use a non-spatial partition of random k-folds (2 folds)
-    - under "Model", select MaxEnt, and then *maxnet*, LQH, and a regularization of 1 value only (your choice), and clamping can be either true or false. 
-    - under "Visualize", plot cloglog without a threshold. Then go to download and download the prediction file, and then plot a threshold of your choice, and go to download and download the prediction file. 
-    - under "Project" - draw a polygon so that your model projection covers all of Colombia. Then project your model using no threshold and one threshold of your choice.
+    - under "Model", select MaxEnt, and then *maxnet*, L and LQH, and a regularization of 1 value only (your choice), and clamping can be either true or false. 
+    - under "Visualize", plot cloglog without a threshold. Then plot a threshold of your choice. 
+    - you can skip "Project".
 
 7. Now you're ready to send the model to BioModelos! <br> 
 Skip ahead to the "Reproduce" Component, "Biomodelos payload" module.<br>

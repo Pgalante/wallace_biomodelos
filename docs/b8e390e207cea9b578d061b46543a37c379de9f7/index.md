@@ -5,7 +5,9 @@
 
 Please find the full workshop agenda below.
 
-### [Zoom link]()
+#### [Office Zoom link]()
+
+### [**Meeting Zoom Link**]()
 
 ### [Wallace installation instructions](installation_instructions.md)
 
