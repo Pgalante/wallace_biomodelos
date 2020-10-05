@@ -67,7 +67,7 @@ Please use the link below for prepared demonstration data and subgroup instructi
 [Range Model Metadata](Merow_et_al-2019-metadata.pdf)<br>
 
 **Future Directions**
-[Optimizing biodiversity informatics](pdf/Anderson_et_al_2020EarlyView_Frontiers_of_Biogeography.pdf)<br>
+[Optimizing biodiversity informatics](pdf/Anderson_et_al_2020_Frontiers_of_Biogeography.pdf)<br>
 [Standards for reporting SDM](pdf/Zurell_Ecography_StandardProtocolForSDMs (1).pdf)
 
 #### Vignettes
@@ -143,4 +143,4 @@ Please use the link below for prepared demonstration data and subgroup instructi
 
 For emergencies or questions, email Peter Galante: pgalante@amnh.org or Mary Blair: mblair1@amnh.org
 
-For zoom connectivity issues, please email Sam Chang: changalfsam@gmail.com
+For Zoom connectivity issues, please email Sam Chang: changalfsam@gmail.com
