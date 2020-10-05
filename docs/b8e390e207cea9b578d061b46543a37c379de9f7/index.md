@@ -56,7 +56,9 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 
 #### Data and subgroup instructions
 Please use the link below for prepared demonstration data and subgroup instructions.<br>
-[Data and instructions](Data.md)
+[Data downloads](Data.md)<br>
+[BioModelos API Subgroup Testing Instructions](API.md)
+
 
 #### Literature
 **Relevant Resources**<br>
