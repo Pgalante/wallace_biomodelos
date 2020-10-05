@@ -53,6 +53,21 @@ If you are the assigned notetaker for your group, please take notes using whatev
 Although you can use the software of your choice, we suggest using the zoom "whiteboard" feature to take notes collaboratively with others in your group - see [this video](https://blogs.otago.ac.nz/zoom/breakout-sessions/how-to-use-a-whiteboard-in-a-breakout-room/) for instructions on how to use the whiteboard function and then save the whiteboard image to your computer.
 
 ### Resources
+
+#### Data and subgroup instructions
+Please use the link below for prepared demonstration data and subgroup instructions.<br>
+[Data and instructions](Data.md)
+
+#### Literature
+**Relevant Resources**<br>
+[Wallace](pdf/Kass_et_al-2018-Methods_in_Ecology_and_Evolution.pdf)<br>
+[BioModelos](pdf/journal.pone.0214522.pdf)<br>
+[Range Model Metadata](Merow_et_al-2019-metadata.pdf)<br>
+
+**Future Directions**
+[Optimizing biodiversity informatics](pdf/Anderson_et_al_2020EarlyView_Frontiers_of_Biogeography.pdf)<br>
+[Standards for reporting SDM](pdf/Zurell_Ecography_StandardProtocolForSDMs (1).pdf)
+
 #### Vignettes
 **changeRangeR**:
 
@@ -71,14 +86,13 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 #### Demonstration videos
 [Wallace version 2 overview](https://www.youtube.com/watch?v=NRtKwtCansw&feature=youtu.be)
 
-[BioModelos video 1 (get data)](https://www.youtube.com/watch?v=7-erSCspct8&feature=youtu.be)
+[BioModelos API: get data (en espanol)](https://www.youtube.com/watch?v=7-erSCspct8&feature=youtu.be)
 
+[BioModelos API: get and post]()
 
 [BioModelos introduction and workflow](https://www.youtube.com/watch?v=hSQfPcla7LY&feature=youtu.be)
 
 **under construction**
-
-[BioModelos video 2 (post data)]()
 
 [maskRangeR and changeRangeR in Wallace]()
 
@@ -92,9 +106,7 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 
 [habitat fragmentation indices]()
 
-**worldclim download**
-*If necessary*
-[**10 arc-minute worldclim**](worldclim.md)
+
 
 
 
@@ -129,4 +141,4 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 
 For emergencies or questions, email Peter Galante: pgalante@amnh.org or Mary Blair: mblair1@amnh.org
 
-
+For zoom connectivity issues, please email Sam Chang: changalfsam@gmail.com

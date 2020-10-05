@@ -14,16 +14,18 @@ Run the following lines in R:
 >library(devtools)
 >#install the dev version of ENMeval
 >install_github("https://github.com/bobmuscarella/ENMeval/tree/dev", dependencies = TRUE, force = TRUE)
-># if installation failed, check the error message; it is probably because of other dependencies (like gbm, randomForest) that need to be ># installed, please install them and then try to install enmeval again now, install the dev version of occCite
+># if installation failed, check the error message; it is probably because of other dependencies (like gbm, randomForest) that need to be
+># installed, please install them and then try to install enmeval again now, install the dev version of occCite
 >install_github("https://github.com/hannahlowens/occCite", dependencies = TRUE, force = TRUE)
 >#install maskRangeR
 >devtools::install_github("cmerow/maskRangeR/maskRangeR")
 ># now, we must install changeranger, for which you need to download a zipfile
 ># here:https://drive.google.com/file/d/12lgBht-251zy7-XdzN6UwmWpodyYrGY-/view?usp=sharing
->#changeranger is still in a private github repo, but for the workshop we will make it public so that it can also be installed via >devtools like the other packages
-># after you download it, unzip it, and use the next line to install changeranger from your local computer directory where you saved the
-># zipfile, e.g. '/Users/mblair/Desktop/WorkedExample/changeRangeR'
->install_local("your/computer/directory/to/changeRangeR")
+># changeranger is still in a private github repo, but for the workshop we will make it public so that it can also be installed via >devtools like the other packages
+># after you download it use the next line to install changeranger from your local computer directory where you saved the
+># zipfile, e.g. '/Users/mblair/Desktop/WorkedExample/changeRangeR.zip'
+># NOTE: Windows users will need to ensure the "/" are correct. NOT "\".
+>install_local("your/computer/directory/to/changeRangeR.zip")
 >#check that both of these installations worked
 >library(maskRangeR)
 >library(changeRangeR)
@@ -34,6 +36,7 @@ Run the following lines in R:
 >library(wallace)
 >run_wallace()
 >#This should open Wallace
->#Stop here - We will run one more line of code at the beginning of bug testing for you to install the "BioModelos" version of Wallace, >which is almost done (!). Thank you for installing all of these first, to make the installation of the BioModelos version much faster >(re: dependencies) . 
+>#Stop here - We will run one more line of code at the beginning of bug testing for you to install the "BioModelos" version of Wallace,
+>which is almost done (!). Thank you for installing all of these first, to make the installation of the BioModelos version much faster >(re: dependencies) . 
 ```
 
