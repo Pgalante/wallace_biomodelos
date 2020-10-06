@@ -1,7 +1,7 @@
 # Instructions for Installation of dependencies for our Wallace-BioModelos 3 Workshop!
 Thank you for joining!
 
-**Beginner R users**: Please update to the latest version of R (v4) and update all packages (in R Studio go to tools - check for package updates) before starting with the installation steps below. For more information on installing R and R studio - see more instructions below, and please reach out to the workshop organizers for help during our zoom office hours and on our Slack channel (links in the installation instructions email) - ¡También hablamos español!.
+**Beginner R users**: Please update to the latest version of R (v4) and update all packages (in R Studio go to tools - check for package updates) before starting with the installation steps below. For more information on installing R and R studio - see more instructions below, and please reach out to the workshop organizers for help during our zoom office hours and on our Slack channel (links in the installation instructions email) - Tambien hablamos espanol!.
 
 **Advanced R users**: Update rgbif, paleobioDB, sf, and skip ahead to "Run the following lines in R" below
 

@@ -4,7 +4,7 @@
 **MODIS data**
 [Colombia, Ecuador, Peru MODIS](raster/olinguito.zip)
 
-**Occurrence records**
+**Occurrence records**<br>
 [Olinguito occurrences](shapefiles/All_new_records_by_year.csv)
 
 **Shapefiles**
