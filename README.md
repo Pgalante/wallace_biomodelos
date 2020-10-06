@@ -1,2 +1,2 @@
 # wallace_biomodelos
-Repo for joint workshop for Wallace training with Biomodelos
+Repo for Joint Workshop III for Wallace training with Biomodelos
