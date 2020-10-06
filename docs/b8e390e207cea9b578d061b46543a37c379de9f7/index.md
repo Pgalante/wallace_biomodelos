@@ -62,7 +62,7 @@ Please use the links below for prepared demonstration data and subgroup instruct
 
 #### Literature
 **Relevant Resources**<br>
-[SDM in Latin America: 25 Year Review](pdf/Urbina-Cardona et al. 2019 SPECIES DISTRIBUTION MODELING Review.pdf)<br>
+[SDM in Latin America: 25 Year Review](pdf/Urbina-Cardona_Review.pdf)<br>
 [Wallace](pdf/Kass_et_al-2018-Methods_in_Ecology_and_Evolution.pdf)<br>
 [BioModelos system to map species distributions](pdf/biomodelos_velasquesTibata.pdf)<br>
 [SDM standards in biodiversity assessments](pdf/Araujo_et_al_2019_ScienceAdvances.pdf)<br>
@@ -70,7 +70,7 @@ Please use the links below for prepared demonstration data and subgroup instruct
 
 **Future Directions**
 [Optimizing biodiversity informatics](pdf/Anderson_et_al_2020_Frontiers_of_Biogeography.pdf)<br>
-[Standards for reporting SDM](pdf/Zurell_Ecography_StandardProtocolForSDMs (1).pdf)<br>
+[Standards for reporting SDM](pdf/Zurell_Ecography_StandardProtocolForSDMs.pdf)<br>
 [Metadata standards](pdf/Merow_et_al-2019-metadata.pdf)
 
 #### Vignettes
@@ -80,7 +80,7 @@ Please use the links below for prepared demonstration data and subgroup instruct
 
 [Multiple species](https://drive.google.com/file/d/1pK6huSbfjsITKDam0nFpzShhP4d7FXLX/view?usp=sharing)
 
-[Diversity metrics using sparse matrices](pdf/Diversity Metrics Using Sparse Matrices(1).pdf)
+[Diversity metrics using sparse matrices](pdf/Diversity_Metrics_Using_Sparse_Matrices.pdf)
 
 
 **maskRangeR**:

@@ -9,7 +9,7 @@
 
 **Shapefiles**
 [Colombia](shapefiles/Col_adm0.zip)<br>
-[Parques Nacionales](shapefiles/parks.zip)<br>
+[Parques Nacionales de Colombia](shapefiles/parks.zip)<br>
 [WWF Ecoregions](shapefiles/SA_Ecoregions.zip) <br> These global ecoregions are a subset of those provided by WWF: https://globil-panda.opendata.arcgis.com/datasets/terrestrial-ecoregions-world
 
 1. Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., Underwood, E. C., D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. Terrestrial ecoregions of the world: a new map of life on Earth. Bioscience 51(11):933-938.
