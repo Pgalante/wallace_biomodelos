@@ -55,7 +55,7 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 ### Resources
 
 #### Data and subgroup instructions
-Please use the link below for prepared demonstration data and subgroup instructions.<br>
+Please use the links below for prepared demonstration data and subgroup instructions.<br>
 [Data downloads](Data.md)<br>
 [BioModelos API Subgroup Testing Instructions](API.md)
 
@@ -103,7 +103,7 @@ Please use the link below for prepared demonstration data and subgroup instructi
 
 **R Demonstrations**
 
-[Large scale biodiversity measures in changeRangeR]()
+[Large scale biodiversity measures in changeRangeR](https://www.dropbox.com/s/a3o7e2n3j9fmkml/Merow_ChangeRanger.mp4?dl=0)
 
 [phylogenetic diversity in changeRangeR]()
 
