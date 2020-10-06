@@ -47,17 +47,19 @@ Join the workshop Slack channel to communicate seamlessly with the workshop orga
 and sign in. <br> You should also get an email confirming that you created your account. 
 
 
-## Instructions for subgroup notetakers
+### Resources
+
+#### Data and subgroup instructions
+##### Instructions for subgroup notetakers
 If you are the assigned notetaker for your group, please take notes using whatever software you prefer (word, textfile, etc.), then save the document, and attach the file to the Slack channel #breakoutgroups by clicking the paperclip icon, navigate to the file, and click send. 
 
 Although you can use the software of your choice, we suggest using the zoom "whiteboard" feature to take notes collaboratively with others in your group - see [this video](https://blogs.otago.ac.nz/zoom/breakout-sessions/how-to-use-a-whiteboard-in-a-breakout-room/) for instructions on how to use the whiteboard function and then save the whiteboard image to your computer.
 
-### Resources
-
-#### Data and subgroup instructions
 Please use the links below for prepared demonstration data and subgroup instructions.<br>
-[Data downloads](Data.md)<br>
+##### [Data downloads](Data.md)<br>
 [BioModelos API Subgroup Testing Instructions](API.md)
+[changeRangeR multispecies Subgroup Testing Instructions](crt.md)
+[Wallace version 2 Subgroup Testing Instructions](wv2t.md)
 
 
 #### Literature
@@ -74,6 +76,8 @@ Please use the links below for prepared demonstration data and subgroup instruct
 [Metadata standards](pdf/Merow_et_al-2019-metadata.pdf)
 
 #### Vignettes
+[**Wallace Version 1**](https://wallaceecomod.github.io/vignettes/wallace_vignette.html)
+
 **changeRangeR**:
 
 [Single species](https://drive.google.com/file/d/1-NbDIjI8b7sCjAvUcOTNBy4xijJi7BsC/view?usp=sharing)
@@ -81,7 +85,6 @@ Please use the links below for prepared demonstration data and subgroup instruct
 [Multiple species](https://drive.google.com/file/d/1pK6huSbfjsITKDam0nFpzShhP4d7FXLX/view?usp=sharing)
 
 [Diversity metrics using sparse matrices](pdf/Diversity_Metrics_Using_Sparse_Matrices.pdf)
-
 
 **maskRangeR**:
 
@@ -99,11 +102,11 @@ Please use the links below for prepared demonstration data and subgroup instruct
 
 **under construction**
 
-[maskRangeR and changeRangeR in Wallace]()
+[maskRangeR and changeRangeR in Wallace](https://youtu.be/E-2fgqa-Epk)
 
 **R Demonstrations**
 
-[Large scale biodiversity measures in changeRangeR](https://www.dropbox.com/s/a3o7e2n3j9fmkml/Merow_ChangeRanger.mp4?dl=0)
+[Large scale biodiversity measures in changeRangeR](https://youtu.be/Hn5fm6XO7tg)
 
 [phylogenetic diversity in changeRangeR]()
 
