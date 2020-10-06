@@ -5,9 +5,7 @@
 
 Please find the full workshop agenda below.
 
-#### [Office Zoom link]()
-
-### [**Meeting Zoom Link**]()
+### [Zoom links](zoom.md)
 
 ### [Wallace installation instructions](installation_instructions.md)
 
@@ -64,13 +62,16 @@ Please use the link below for prepared demonstration data and subgroup instructi
 
 #### Literature
 **Relevant Resources**<br>
+[SDM in Latin America: 25 Year Review](pdf/Urbina-Cardona et al. 2019 SPECIES DISTRIBUTION MODELING Review.pdf)<br>
 [Wallace](pdf/Kass_et_al-2018-Methods_in_Ecology_and_Evolution.pdf)<br>
-[BioModelos](pdf/journal.pone.0214522.pdf)<br>
-[Range Model Metadata](Merow_et_al-2019-metadata.pdf)<br>
+[BioModelos system to map species distributions](pdf/biomodelos_velasquesTibata.pdf)<br>
+[SDM standards in biodiversity assessments](pdf/Araujo_et_al_2019_ScienceAdvances.pdf)<br>
+
 
 **Future Directions**
 [Optimizing biodiversity informatics](pdf/Anderson_et_al_2020_Frontiers_of_Biogeography.pdf)<br>
-[Standards for reporting SDM](pdf/Zurell_Ecography_StandardProtocolForSDMs (1).pdf)
+[Standards for reporting SDM](pdf/Zurell_Ecography_StandardProtocolForSDMs (1).pdf)<br>
+[Metadata standards](pdf/Merow_et_al-2019-metadata.pdf)
 
 #### Vignettes
 **changeRangeR**:
@@ -79,7 +80,7 @@ Please use the link below for prepared demonstration data and subgroup instructi
 
 [Multiple species](https://drive.google.com/file/d/1pK6huSbfjsITKDam0nFpzShhP4d7FXLX/view?usp=sharing)
 
-[Diversity metrics using sparse matrices](https://drive.google.com/file/d/18DNLBYxX9QCHOWldeJfWUq0i614aVI7Z/view?usp=sharing)
+[Diversity metrics using sparse matrices](pdf/Diversity Metrics Using Sparse Matrices(1).pdf)
 
 
 **maskRangeR**:
@@ -102,7 +103,7 @@ Please use the link below for prepared demonstration data and subgroup instructi
 
 **R Demonstrations**
 
-[sparse matrices in changeRangeR]()
+[Large scale biodiversity measures in changeRangeR](https://www.dropbox.com/s/a3o7e2n3j9fmkml/Merow_ChangeRanger.mp4?dl=0)
 
 [phylogenetic diversity in changeRangeR]()
 
