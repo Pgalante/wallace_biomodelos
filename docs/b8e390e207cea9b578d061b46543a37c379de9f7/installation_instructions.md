@@ -1,4 +1,4 @@
-# Instructions for Installation of dependencies for our Wallace-BioModelos 3 Workshop!
+# Instructions for Installation of dependencies for our Wallace-BioModelos 3 Workshop
 Thank you for joining!
 
 **Beginner R users**: Please update to the latest version of R (v4) and update all packages (in R Studio go to tools - check for package updates) before starting with the installation steps below. For more information on installing R and R studio - see more instructions below, and please reach out to the workshop organizers for help during our zoom office hours and on our Slack channel (links in the installation instructions email) - Tambien hablamos espanol!.
@@ -7,19 +7,19 @@ Thank you for joining!
 
 **More details on installing R and RStudio for beginner R users:**<br>
 R is an open-source statistical software package that has the ability to do GIS operations among many other things. We use it in conjunction with RStudio, an easy way to manage R code.
-To download R, go to:<br>
-            Windows: https://cran.r-project.org/bin/windows/base/ <br>
-            Mac: https://cran.rstudio.com/bin/macosx/ <br>
-To download RStudio, go to: https://www.rstudio.com/products/rstudio/download/ <br>
-Install RStudio Desktop (Free, Open Source) accepting the default pathways.<br>
+
+To download R([Windows](https://cran.r-project.org/bin/windows/base/), [Mac](https://cran.rstudio.com/bin/macosx/))<br>
+            
+To download [RStudio](https://www.rstudio.com/products/rstudio/download/). Install RStudio Desktop (Free, Open Source) accepting the default pathways.<br>
+
 Now, you will need to tell RStudio where R lives. Open RStudio, go to Tools -> Global Options and change the R version by navigating to where you saved R. Unless you have a reason against it, you should use the 64 bit version of R (64 and 32 bit R are both downloaded).
 
-**If you are a Windows user, please also install RTools from here - (*even if you have already installed R!*)**<br>
+**If you are a Windows user, please also install RTools from here - (*even if you have already installed R*)**<br>
 https://cran.r-project.org/bin/windows/Rtools/ (choose 64 bit unless you have a reason not to). And follow the steps under "Putting Rtools on the PATH".
 
 Now continue to "Run the following lines", below.
 
-**Another note for beginners**: Also, if you previously installed and used Wallace or ENMEval last year and regularly save your workspace environment, please clear your R Studio workspace environment (using the broom icon on the right side). Then, exit R Studio and when prompted save the (now cleaned) workspace, and open R Studio again before proceeding with the steps below (in the future. don't save your workspace environment).
+**Another note for beginners**: Also, if you previously installed and used Wallace or ENMEval last year and regularly save your workspace environment, please clear your R Studio workspace environment (using the broom icon on the right side). Then, exit RStudio and when prompted save the (now cleaned) workspace, and open RStudio again before proceeding with the steps below (in the future. don't save your workspace environment).
 
 
 ####Run the following lines in R:

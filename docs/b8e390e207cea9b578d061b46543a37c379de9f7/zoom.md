@@ -7,9 +7,8 @@ Gonzalo, Thursday 2-5pm, Bogota time. Please contact Gonzalo on Slack <br>
 
 
 
-## [Daily Meeting Zoom Link]
-[click here](https://amnh.zoom.us/j/98060514837?pwd=WnlBTEErYjZJZWU2Ty9TS1YzTzFQZz09) <br>
-Please use the link above to join our workshop each day.
+## [Daily Meeting Zoom Link](https://amnh.zoom.us/j/98060514837?pwd=WnlBTEErYjZJZWU2Ty9TS1YzTzFQZz09) <br>
+
 
 See below for more information on how to join by phone in case of any internet connectivity issues:<br>
 >>Topic: Wallace-BioModelos Workshop III

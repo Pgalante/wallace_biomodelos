@@ -49,17 +49,18 @@ and sign in. <br> You should also get an email confirming that you created your 
 
 ### Resources
 
-#### Data and subgroup instructions
+##### Data and subgroup instructions
 ##### Instructions for subgroup notetakers
 If you are the assigned notetaker for your group, please take notes using whatever software you prefer (word, textfile, etc.), then save the document, and attach the file to the Slack channel #breakoutgroups by clicking the paperclip icon, navigate to the file, and click send. 
 
 Although you can use the software of your choice, we suggest using the zoom "whiteboard" feature to take notes collaboratively with others in your group - see [this video](https://blogs.otago.ac.nz/zoom/breakout-sessions/how-to-use-a-whiteboard-in-a-breakout-room/) for instructions on how to use the whiteboard function and then save the whiteboard image to your computer.
 
 Please use the links below for prepared demonstration data and subgroup instructions.<br>
-##### [Data downloads](Data.md)<br>
-[BioModelos API Subgroup Testing Instructions](API.md)
-[changeRangeR multispecies Subgroup Testing Instructions](crt.md)
-[Wallace version 2 Subgroup Testing Instructions](wv2t.md)
+##### Data downloads<br>
+[Download prepared Datasets](Data.md)<br><br>
+[BioModelos API Subgroup Testing Instructions](API.md)<br>
+[changeRangeR multispecies Subgroup Testing Instructions](crt.md)<br>
+[Wallace version 2 Subgroup Testing Instructions](wv2t.md)<br>
 
 
 #### Literature
@@ -76,7 +77,8 @@ Please use the links below for prepared demonstration data and subgroup instruct
 [Metadata standards](pdf/Merow_et_al-2019-metadata.pdf)
 
 #### Vignettes
-[**Wallace Version 1**](https://wallaceecomod.github.io/vignettes/wallace_vignette.html)
+**Wallace Version 1**<br>
+[Vignette](https://wallaceecomod.github.io/vignettes/wallace_vignette.html)
 
 **changeRangeR**:
 
