@@ -1,13 +1,13 @@
 ### Zoom Links
 
 #### Installation consultation hours
-[Andrea, Wednesday 2-5pm, Bogota time](https://ccny.zoom.us/j/94837781810)<br>
-Gonzalo, Thursday 2-5pm, Bogota time. Please contact Gonzalo on Slack<br>
-[Andrea, Friday 3-5pm, Bogota time](https://ccny.zoom.us/j/96016487693)<br>
+[Andrea, Wednesday 2-5pm, Bogota time](https://ccny.zoom.us/j/94837781810) <br>
+Gonzalo, Thursday 2-5pm, Bogota time. Please contact Gonzalo on Slack <br>
+[Andrea, Friday 3-5pm, Bogota time](https://ccny.zoom.us/j/96016487693) <br>
 
 
 
-## [Daily Meeting Zoom Link](https://amnh.zoom.us/j/98060514837?pwd=WnlBTEErYjZJZWU2Ty9TS1YzTzFQZz09)<br>
+## [Daily Meeting Zoom Link](https://amnh.zoom.us/j/98060514837?pwd=WnlBTEErYjZJZWU2Ty9TS1YzTzFQZz09) <br>
 Please use the link above to join our workshop each day.
 
 See below for more information on how to join by phone in case of any internet connectivity issues:<br>
