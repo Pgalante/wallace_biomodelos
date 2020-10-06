@@ -103,7 +103,7 @@ Please use the link below for prepared demonstration data and subgroup instructi
 
 **R Demonstrations**
 
-[Large scale biodiversity measures in changeRangeR](https://www.dropbox.com/s/a3o7e2n3j9fmkml/Merow_ChangeRanger.mp4?dl=0)
+[Large scale biodiversity measures in changeRangeR]()
 
 [phylogenetic diversity in changeRangeR]()
 
