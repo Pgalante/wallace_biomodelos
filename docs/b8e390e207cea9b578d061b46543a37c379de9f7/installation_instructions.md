@@ -22,7 +22,7 @@ Now continue to "Run the following lines", below.
 **Another note for beginners**: Also, if you previously installed and used Wallace or ENMEval last year and regularly save your workspace environment, please clear your R Studio workspace environment (using the broom icon on the right side). Then, exit RStudio and when prompted save the (now cleaned) workspace, and open RStudio again before proceeding with the steps below (in the future. don't save your workspace environment).
 
 
-####Run the following lines in R:
+#### Run the following lines in R:
 ```{r}
 #install the devtools package to help you install other things
 install.packages("devtools")

@@ -38,27 +38,21 @@ If your subgroup tested the *changeRangeR* full R package (*advanced R users sub
 [Workshop evaluation form](https://forms.gle/oob2Ht1JF8USEsWZ8)
 
 
-## Slack
-Join the workshop Slack channel to communicate seamlessly with the workshop organizers and participants! 
-
-1. Check your email for an invitation to join our workshop slack group!  The email will come from "feedback@slack.com" with the subject "pgalante has invited you to work with them in Slack".
-
-2. Click on the link "Join Now" and enter your name and a password, then click "create account". Now you can see the Slack channel from any web browser.  If you prefer, you can also download the Slack app (https://slack.com/) and see the channel from there, but you do NOT need to install the software in order to see the slack channel.
-
-3. Once you have created an account, anytime you want to join the workshop slack channel again, paste this url into any web browser: wallacebiomod-mqt5901.slack.com
-and sign in. <br> You should also get an email confirming that you created your account. 
+### Slack
+Join the workshop Slack channel to communicate seamlessly with the workshop organizers and participants!<br> 
+[Click here for instructions](slack.md)
 
 
 ### Resources
 
-##### Data and subgroup instructions
+#### Data and subgroup instructions
 ##### Instructions for subgroup notetakers
 If you are the assigned notetaker for your group, please take notes using whatever software you prefer (word, textfile, etc.), then save the document, and attach the file to the Slack channel #breakoutgroups by clicking the paperclip icon, navigate to the file, and click send. 
 
 Although you can use the software of your choice, we suggest using the zoom "whiteboard" feature to take notes collaboratively with others in your group - see [this video](https://blogs.otago.ac.nz/zoom/breakout-sessions/how-to-use-a-whiteboard-in-a-breakout-room/) for instructions on how to use the whiteboard function and then save the whiteboard image to your computer.
 
 #### Please use the links below for prepared demonstration data and subgroup instructions.<br>
-##### Data and subgroup instructions<br>
+**Prepared datasets**<br>
 [Download prepared Datasets](Data.md)<br><br>
 **Day 1 subgroups**<br>
 [Wallace version 2 Subgroup Testing Instructions](wv2t.md)<br>
@@ -76,7 +70,7 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 [BioModelos system to map species distributions](pdf/biomodelos_velasquesTibata.pdf)<br>
 [SDM standards in biodiversity assessments](pdf/Araujo_et_al_2019_ScienceAdvances.pdf)<br>
 
-**Future Directions**
+**Future Directions**<br>
 [Optimizing biodiversity informatics](pdf/Anderson_et_al_2020_Frontiers_of_Biogeography.pdf)<br>
 [Standards for reporting SDM](pdf/Zurell_Ecography_StandardProtocolForSDMs.pdf)<br>
 [Metadata standards](pdf/Merow_et_al-2019-metadata.pdf)
