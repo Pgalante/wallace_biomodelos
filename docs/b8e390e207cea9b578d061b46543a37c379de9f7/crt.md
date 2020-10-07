@@ -1,4 +1,4 @@
-### changeRangeR multispecies functions testing instructions.
+### changeRangeR multispecies functions in Wallace Testing instructions.
 #### Please also check out the [demo video](https://youtu.be/R1cMJdNWAYo)
 
 Instructions:
