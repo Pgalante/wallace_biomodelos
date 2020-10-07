@@ -109,7 +109,7 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 
 [BioModelos API: get and post (in English)](https://youtu.be/E-2fgqa-Epk)
 
-[maskRangeR and changeRangeR in Wallace](https://youtu.be/E-2fgqa-Epk)
+[maskRangeR demonstration in Wallace](https://youtu.be/uBbYqQLRirU)
 
 [changeRangeR multispecies functions in Wallace](https://youtu.be/R1cMJdNWAYo)
 
