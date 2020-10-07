@@ -1,6 +1,6 @@
 ## BioModelos API Subgroup Instructions
 
-Please also check out the demo video [here](https://www.youtube.com/watch?v=7-erSCspct8&feature=youtu.be)<br>
+Please also check out the demo videos for [Getting data (en Espanol)](https://www.youtube.com/watch?v=7-erSCspct8&feature=youtu.be) and [Getting and posting data (in English)](https://youtu.be/E-2fgqa-Epk)<br>
 
 **Instructions**<br>
 1. In RStudio, run this line of code to load wallace:<br>

@@ -1,8 +1,9 @@
 ## Data
 ### Data downloads
 
-**MODIS data**
-[Colombia, Ecuador, Peru MODIS](raster/olinguito.zip)
+**Raster data**
+[Colombia, Ecuador, Peru MODIS](raster/olinguito.zip)<br>
+[Threshold olingtuito model](raster/Bassaricyon_neblina.tif)
 
 **Occurrence records**<br>
 [Olinguito occurrences](shapefiles/All_new_records_by_year.csv)

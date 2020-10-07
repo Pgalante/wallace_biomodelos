@@ -3,6 +3,8 @@
 
 **Location**: virtual. Three 2.5-hour morning sessions and afternoon asynchronous activities to be completed individually or in a small team.
 
+If you are a twitter user, **please use our hashtag #Wallace-BioModelos2020** to tweet about the workshop.
+
 Please find the full workshop agenda below.
 
 ### [Zoom links](zoom.md)
@@ -55,12 +57,16 @@ If you are the assigned notetaker for your group, please take notes using whatev
 
 Although you can use the software of your choice, we suggest using the zoom "whiteboard" feature to take notes collaboratively with others in your group - see [this video](https://blogs.otago.ac.nz/zoom/breakout-sessions/how-to-use-a-whiteboard-in-a-breakout-room/) for instructions on how to use the whiteboard function and then save the whiteboard image to your computer.
 
-Please use the links below for prepared demonstration data and subgroup instructions.<br>
-##### Data downloads<br>
+#### Please use the links below for prepared demonstration data and subgroup instructions.<br>
+##### Data and subgroup instructions<br>
 [Download prepared Datasets](Data.md)<br><br>
-[BioModelos API Subgroup Testing Instructions](API.md)<br>
-[changeRangeR multispecies Subgroup Testing Instructions](crt.md)<br>
+**Day 1 subgroups**<br>
 [Wallace version 2 Subgroup Testing Instructions](wv2t.md)<br>
+[BioModelos API Subgroup Testing Instructions](API.md)<br>
+**Day 2 subgroups**<br>
+[maskRangeR in Wallace Subgroup Testing Instructions](mrw.md)<br>
+[changeRangeR multispecies in Wallace Subgroup Testing Instructions](crt.md)<br>
+[changeRangeR R package Subgroup Testing Instructions](crr.md)<br>
 
 
 #### Literature
@@ -69,7 +75,6 @@ Please use the links below for prepared demonstration data and subgroup instruct
 [Wallace](pdf/Kass_et_al-2018-Methods_in_Ecology_and_Evolution.pdf)<br>
 [BioModelos system to map species distributions](pdf/biomodelos_velasquesTibata.pdf)<br>
 [SDM standards in biodiversity assessments](pdf/Araujo_et_al_2019_ScienceAdvances.pdf)<br>
-
 
 **Future Directions**
 [Optimizing biodiversity informatics](pdf/Anderson_et_al_2020_Frontiers_of_Biogeography.pdf)<br>
@@ -94,25 +99,27 @@ Please use the links below for prepared demonstration data and subgroup instruct
 
 
 #### Demonstration videos
+**Wallace**
+
 [Wallace version 2 overview](https://www.youtube.com/watch?v=NRtKwtCansw&feature=youtu.be)
-
-[BioModelos API: get data (en espanol)](https://www.youtube.com/watch?v=7-erSCspct8&feature=youtu.be)
-
-[BioModelos API: get and post]()
 
 [BioModelos introduction and workflow](https://www.youtube.com/watch?v=hSQfPcla7LY&feature=youtu.be)
 
-**under construction**
+[BioModelos API: get data (en Espanol)](https://www.youtube.com/watch?v=7-erSCspct8&feature=youtu.be)
+
+[BioModelos API: get and post (in English)](https://youtu.be/E-2fgqa-Epk)
 
 [maskRangeR and changeRangeR in Wallace](https://youtu.be/E-2fgqa-Epk)
+
+[changeRangeR multispecies functions in Wallace](https://youtu.be/R1cMJdNWAYo)
 
 **R Demonstrations**
 
 [Large scale biodiversity measures in changeRangeR](https://youtu.be/Hn5fm6XO7tg)
 
-[phylogenetic diversity in changeRangeR]()
+[phylogenetic diversity in changeRangeR](https://youtu.be/yJee8TVBGEs)
 
-[sensitivity analysis in maskRangeR]()
+[sensitivity analysis in maskRangeR](https://youtu.be/TITsUzVGTJQ)
 
 [habitat fragmentation indices]()
 
