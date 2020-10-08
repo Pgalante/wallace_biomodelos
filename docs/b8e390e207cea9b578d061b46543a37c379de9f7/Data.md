@@ -3,10 +3,10 @@
 
 **Raster data**
 [Colombia, Ecuador, Peru MODIS](raster/olinguito.zip)<br>
+[Olinguito Binary SDM](raster/Bassaricyon_neblina_binary.tif)
 
 **Occurrence records**<br>
 [Olinguito occurrences](shapefiles/All_new_records_by_year.csv)
-[Olinguito Binary SDM](raster/Bassaricyon_neblina_binary.tif)
 
 **Shapefiles**<br>
 [Colombia](shapefiles/Col_adm0.zip)<br>
