@@ -140,11 +140,11 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 | | 11:00AM - 1:00PM | Break |
 | | 1:00 - 3:00PM | Groups (or individuals) spend 1 -2 hours as needed for software testing activities. *Wallace* team members are available to assist on Zoom. |
 | October 15, 2020 | 9:00 - 9:10AM | Welcome <br> Introduction to Workshop Day 3 |
-| | 9:10 - 9:40AM | Discussion and Feedback from software testing yesterday - each group reports back |
-| | 9:40 - 10:25AM | Subgroup discussions: What will/could be impacts of the expanded *Wallace* for conservation decision making? <br> What should training in the larger community look like (in Colombia and beyond)? <br><br> [10 minute break]
-| | 10:35 - 11:00AM | Subgroups report back for larger group discussion <br> One person from each subgroup presents a summary of their discussion |
-| | 11:00 - 11:30AM | Discussion of potential workshop outputs including summary product/ contribution to publication | 
-| | 11:30 - 11:45AM | Workshop summary and discussion & completion of evaluations | 
+| | 9:10 - 9:55AM | Discussion and Feedback from software testing yesterday - each group reports back |
+| | 9:55 - 10:35AM | Subgroup discussions: What will/could be impacts of the expanded *Wallace* for conservation decision making? <br> What should training in the larger community look like (in Colombia and beyond)? <br><br> [10 minute break]
+| | 10:45 - 11:10AM | Subgroups report back for larger group discussion <br> One person from each subgroup presents a summary of their discussion |
+| | 11:10 - 11:45AM | Discussion of potential workshop outputs including summary product/ contribution to publication | 
+| | 11:45 - 12:00PM | Workshop summary and discussion & completion of evaluations | 
   
 
 
