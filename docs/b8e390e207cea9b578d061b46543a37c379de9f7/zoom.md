@@ -2,7 +2,7 @@
 
 #### Installation consultation hours
 [Andrea, Wednesday 2-5pm, Bogota time](https://ccny.zoom.us/j/94837781810) <br>
-Gonzalo, Thursday 2-5pm, Bogota time. Please contact Gonzalo on Slack <br>
+[Gonzalo, Thursday 2-5pm, Bogota time.](https://ccny.zoom.us/j/97923156458) You can also contact Gonzalo on Slack <br>
 [Andrea, Friday 3-5pm, Bogota time](https://ccny.zoom.us/j/96016487693) <br>
 
 
