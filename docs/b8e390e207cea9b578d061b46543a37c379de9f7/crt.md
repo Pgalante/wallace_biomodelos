@@ -1,9 +1,10 @@
 ### changeRangeR in Wallace Testing instructions.
-Please also check out the [demonstration video for multiple species analyses](https://youtu.be/eXqyctCFJ0U)<br>
-and the [demonstration video for single species analyses](https://youtu.be/mfBwqnate88)
+Please also check out the [demonstration video for single species analyses](https://youtu.be/mfBwqnate88)<br>
+and the [demonstration video for multiple species analyses](https://youtu.be/eXqyctCFJ0U)
+
 
 ## Single species testing
-[Video](https://youtu.be/eXqyctCFJ0U)
+[Video](https://youtu.be/mfBwqnate88)
 
 Instructions:<br>
 1. In RStudio, run these lines of code:
@@ -50,7 +51,7 @@ Now let's try calculating change through time.
 
 
 ## Multiple species testing
-[Video](https://youtu.be/mfBwqnate88)
+[Video](https://youtu.be/eXqyctCFJ0U)
 Instructions:<br>
 1. In R studio, run these lines of code:
 ```{r}
