@@ -1,5 +1,6 @@
-### changeRangeR multispecies functions in Wallace Testing instructions.
-#### Please also check out the [demo video](https://youtu.be/R1cMJdNWAYo)
+### changeRangeR in Wallace Testing instructions.
+Please also check out the [demonstration video for multiple species analyses](https://youtu.be/eXqyctCFJ0U)<br>
+and the [demonstration video for single species analyses](https://youtu.be/mfBwqnate88)
 
 Instructions:
 1. In R studio, run these lines of code:

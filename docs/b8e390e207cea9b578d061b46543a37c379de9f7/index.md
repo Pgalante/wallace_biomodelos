@@ -59,7 +59,7 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 [BioModelos API Subgroup Testing Instructions](API.md)<br>
 **Day 2 subgroups**<br>
 [maskRangeR in Wallace Subgroup Testing Instructions](mrw.md)<br>
-[changeRangeR multispecies in Wallace Subgroup Testing Instructions](crt.md)<br>
+[changeRangeR in Wallace Subgroup Testing Instructions](crt.md)<br>
 [changeRangeR R package Subgroup Testing Instructions](crr.md)<br>
 
 
@@ -105,7 +105,9 @@ Although you can use the software of your choice, we suggest using the zoom "whi
 
 [maskRangeR demonstration in Wallace](https://youtu.be/uBbYqQLRirU)
 
-[changeRangeR multispecies functions in Wallace](https://youtu.be/R1cMJdNWAYo)
+[changeRangeR multispecies functions in Wallace](https://youtu.be/eXqyctCFJ0U)
+
+[changeRangeR single species functions in Wallace](https://youtu.be/mfBwqnate88)
 
 **R Demonstrations**
 
