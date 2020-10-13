@@ -3,7 +3,7 @@
 
 **Location**: virtual. Three 2.5-hour morning sessions and afternoon asynchronous activities to be completed individually or in a small team.
 
-If you are a twitter user, **please use our hashtag #Wallace-BioModelos2020** to tweet about the workshop.
+If you are a twitter user, **please use our hashtag #WallaceBioModelos2020** to tweet about the workshop.
 
 Please find the full workshop agenda below.
 
